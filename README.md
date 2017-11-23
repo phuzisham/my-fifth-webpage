@@ -1,22 +1,15 @@
-# _My First Webpage
+# Fifth Practice Site
 
-#### _A webpage created in coding pairs that links to our favorite things, 08.01.2017
+#### _Created: 08.01.2017_
+#### _Last Modified: 11.21.2017_
 
-#### By _**Riki Montgomery and David Hale**_
+#### _A webpage created pair programming that links to our favorite things.
+
+#### By _Riki Montgomery and David Hale_
 
 ## Description
 
 _This is a simple website to help us get better at coding websites._
-
-## Setup/Installation Requirments
-
-* _Clone your repository from github_
-* _Pair your github accounts using $ git pair {Initials}_
-* _Open the file in the browser using the terminal_
-
-## Known Bugs
-
-_Not logging out of your profile could make this more difficult._
 
 ## Support and contact details
 
